@@ -1,0 +1,18 @@
+body {
+        background-image: url(https://pngimage.net/wp-content/uploads/2018/06/wallpaper-tecnologia-png-2.png);
+        color: white;
+        font-family: monospace;
+        font-size: 18px;
+        margin-top: auto;
+        margin-right: auto;
+        margin-left: 10px; 
+        padding-left: 10px;
+       }
+        
+h1 {
+       margin-left: 30px;
+       }
+
+h1, h2, h3 {
+       color:greenyellow;
+       }
